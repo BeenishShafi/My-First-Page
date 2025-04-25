@@ -1,0 +1,23 @@
+body{
+    color: antiquewhite;
+    text-align: center;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/444/479/808/flowers-yellow-flowers-black-background-digital-art-wallpaper-preview.jpg);
+    background-size: cover;
+}
+header{
+    background-color: darkslategrey;
+}
+
+
+nav{
+    color: lemonchiffon;
+}
+a{
+    color: rgb(255, 228, 205);
+    text-align: center;
+    background-color: darkslategray ;
+
+}
+button{
+    color: darkgreen;
+}
